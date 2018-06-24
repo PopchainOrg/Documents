@@ -1,7 +1,7 @@
 # Popchain Technical Features
 ![](https://avatars3.githubusercontent.com/u/38804864?s=200&v=4)
 ## Instant payment
- By the master node system, it can support more than 2000 transactions per second to meet the demand of practical application better.
+ By the pop node system, it can support more than 2000 transactions per second to meet the demand of practical application better.
 ## Smart Contract
  Through smart contract, the benefit of content creators can be protected and the platform intermediate links can be removed to maximize the creators' benefits.
 ## InterPlanetary Domain Name System, IPDNS
